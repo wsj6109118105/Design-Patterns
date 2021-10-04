@@ -70,3 +70,20 @@ public class safeLazySun {
     }
 }
 ```
+### 静态内部类
+```java
+public class StaticInnerClass {
+
+    private StaticInnerClass(){
+
+    }
+
+    private static class Inner{
+        private static StaticInnerClass staticInnerClass = new StaticInnerClass();
+    }
+
+    public StaticInnerClass getInstance(){
+        return Inner.staticInnerClass;
+    }
+}
+```
