@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/FlyWeight/FlyWeight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype pattern/Prototype pattern.iml" filepath="$PROJECT_DIR$/Prototype pattern/Prototype pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template-Method/Template-Method.iml" filepath="$PROJECT_DIR$/Template-Method/Template-Method.iml" />
     </modules>
   </component>
 </project>
