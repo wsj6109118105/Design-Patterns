@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/FlyWeight/FlyWeight.iml" filepath="$PROJECT_DIR$/FlyWeight/FlyWeight.iml" />
       <module fileurl="file://$PROJECT_DIR$/Prototype pattern/Prototype pattern.iml" filepath="$PROJECT_DIR$/Prototype pattern/Prototype pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy/Proxy.iml" filepath="$PROJECT_DIR$/Proxy/Proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/Strategy/Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Template-Method/Template-Method.iml" filepath="$PROJECT_DIR$/Template-Method/Template-Method.iml" />
     </modules>
