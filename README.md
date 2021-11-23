@@ -22,4 +22,4 @@
 - 策略 Strategy
 - 状态 State
 - 备忘录 Memento
-
+- 观察者 Observer
